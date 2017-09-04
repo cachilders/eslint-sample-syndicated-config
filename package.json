@@ -1,0 +1,13 @@
+{
+  "name": "eslint-sample-syndicated-config",
+  "version": "0.0.1",
+  "author": {
+    "name": "Chomper Missisippiensis"
+  },
+  "private": false,
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
